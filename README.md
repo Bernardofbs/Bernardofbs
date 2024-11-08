@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sci-Fi, Games, Books and Movies
 - 🌱 I’m currently learning C, Python and DDl
 - 💞️ I’m looking to collaborate on Indie Projects
-- 📫 How to reach me: Instagram or Discord
+- 📫 How to reach me: Instagram, Discord or Email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im 20 years old
 
