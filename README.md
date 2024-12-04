@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernardofbs
 - 👀 I’m interested in Sci-Fi, Games, Books and Movies
-- 🌱 I’m currently learning C, Python and DDl
+- 🌱 I’m currently learning C, Python and SQL
 - 💞️ I’m looking to collaborate on Indie Projects
 - 📫 How to reach me: Instagram, Discord (bernardin#9252) or Email.
 - 😄 Pronouns: He/Him
