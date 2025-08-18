@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação`**
 
-Me chamo Bernardo Ferreira, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio no IPG. Atualmente, estou cursando Bacharelado em Sistemas de Informação no CEFET MG. 
+Me chamo Bernardo Ferreira, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no IPG. Atualmente, estou cursando Bacharelado em Sistemas de Informação no CEFET MG. 
 
 
 ---
