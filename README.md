@@ -1,5 +1,11 @@
 # 👨🏾‍💻 Bernardo Ferreira
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/bernardo-ferreira-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 **`Desenvolvedor & Estudante de Sistemas de Informação`**
 
 Sou um entusiasta de tecnologia e estudante de Sistemas de Informação, estudo para resolver problemas através de código limpo e arquiteturas seguras. Tenho focado meus estudos e projetos práticos no ecossistema **Python, Banco de Dados (SQL), Análise de Dados e Segurança da Informação**.
@@ -10,30 +16,24 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 
 ### Tecnologias e Ferramentas
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="15" />
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img width="15" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="15" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-<br><br>
-
-### Estatísticas do GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/Bernardofbs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/Bernardofbs)
-
-</div>
-<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
 
 ---
 
-###  Projetos em Destaque
+### Estatísticas do GitHub
 
-* **[ShadowVault](https://github.com/Bernardofbs/ShadowVault)**: Gerenciador de senhas local via CLI, com arquitetura *Zero-Knowledge*. Desenvolvido em Python (POO), utilizando SQLite e criptografia avançada (Bcrypt + AES/Fernet) para segurança extrema de dados.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="150" alt="Top Langs" />
+</p>
+
+---
+
+### Projetos em Destaque
+
+* 🛡️ **[ShadowVault](https://github.com/Bernardofbs/ShadowVault)**: Gerenciador de senhas local via CLI, com arquitetura *Zero-Knowledge*. Desenvolvido em Python (POO), utilizando SQLite e criptografia avançada (Bcrypt + AES/Fernet) para segurança extrema de dados.
