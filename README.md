@@ -8,7 +8,7 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,18 +22,18 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 
 <br><br>
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/Bernardofbs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/Bernardofbs)
+
+</div>
 <br>
 
 ---
 
-### 🏆 Projetos em Destaque
+###  Projetos em Destaque
 
-* 🛡️ **[ShadowVault](https://github.com/Bernardofbs/ShadowVault)**: Gerenciador de senhas local via CLI, com arquitetura *Zero-Knowledge*. Desenvolvido em Python (POO), utilizando SQLite e criptografia avançada (Bcrypt + AES/Fernet) para segurança extrema de dados.
+* **[ShadowVault](https://github.com/Bernardofbs/ShadowVault)**: Gerenciador de senhas local via CLI, com arquitetura *Zero-Knowledge*. Desenvolvido em Python (POO), utilizando SQLite e criptografia avançada (Bcrypt + AES/Fernet) para segurança extrema de dados.
