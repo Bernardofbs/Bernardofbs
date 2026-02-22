@@ -2,7 +2,7 @@
 
 **`Desenvolvedor & Estudante de Sistemas de Informação`**
 
-Sou um entusiasta de tecnologia e estudante de Sistemas de Informação, apaixonado por resolver problemas através de código limpo e arquiteturas seguras. Tenho focado meus estudos e projetos práticos no ecossistema **Python, Banco de Dados (SQL), Análise de Dados e Segurança da Informação**.
+Sou um entusiasta de tecnologia e estudante de Sistemas de Informação, estudo para resolver problemas através de código limpo e arquiteturas seguras. Tenho focado meus estudos e projetos práticos no ecossistema **Python, Banco de Dados (SQL), Análise de Dados e Segurança da Informação**.
 
 Busco sempre construir aplicações sólidas, com foco em boas práticas como Programação Orientada a Objetos (POO) e proteção de dados.
 
@@ -25,8 +25,9 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
 <br>
