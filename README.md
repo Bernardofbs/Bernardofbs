@@ -32,8 +32,4 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="150" alt="Top Langs" />
 </p>
 
----
 
-### Projetos em Destaque
-
-* 🛡️ **[ShadowVault](https://github.com/Bernardofbs/ShadowVault)**: Gerenciador de senhas local via CLI, com arquitetura *Zero-Knowledge*. Desenvolvido em Python (POO), utilizando SQLite e criptografia avançada (Bcrypt + AES/Fernet) para segurança extrema de dados.
