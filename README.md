@@ -29,8 +29,8 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bernardofbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardofbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" height="150" alt="Top Langs" />
 </p>
 
 
