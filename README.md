@@ -6,9 +6,9 @@
   </a>
 </p>
 
-**`Desenvolvedor & Estudante de Sistemas de Informação`**
+**`Desenvolvedor & Estudante de Sistemas para Internet`**
 
-Sou um entusiasta de tecnologia e estudante de Sistemas de Informação, estudo para resolver problemas através de código limpo e arquiteturas seguras. Tenho focado meus estudos e projetos práticos no ecossistema **Python, Banco de Dados (SQL), Análise de Dados e Segurança da Informação**.
+Sou um entusiasta de tecnologia e estudante de Sistemas para Internet, estudo para resolver problemas através de código limpo e arquiteturas seguras. Tenho focado meus estudos e projetos práticos no ecossistema **Python, Banco de Dados (SQL), Java, Análise de Dados e Segurança da Informação**.
 
 Busco sempre construir aplicações sólidas, com foco em boas práticas como Programação Orientada a Objetos (POO) e proteção de dados.
 
@@ -18,6 +18,7 @@ Busco sempre construir aplicações sólidas, com foco em boas práticas como Pr
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
